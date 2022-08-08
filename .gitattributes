@@ -1,3 +1,2 @@
-MonoCrop-Madness_Data/level1.resS filter=lfs diff=lfs merge=lfs -text
-MonoCrop-Madness_data/level1.resS filter=lfs diff=lfs merge=lfs -text
 MonoCrop-Madness_data/level1 filter=lfs diff=lfs merge=lfs -text
+MonoCrop-Madness_data/level1.resS filter=lfs diff=lfs merge=lfs -text
